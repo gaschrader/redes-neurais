@@ -5,7 +5,7 @@ Este repositório reúne projetos desenvolvidos durante a disciplina **Introduç
 Os projetos foram implementados em **Python**, utilizando o ambiente **Jupyter Notebook**, e abrangem diferentes etapas do processo de aprendizado de máquina, incluindo:
 - **Discretização e manipulação de dados**.
 - **Treinamento de modelos utilizando redes neurais**.
-- **Análises detalhadas e reflexões** sobre cada técnica explorada.
+- **Análises e reflexões** sobre cada técnica explorada.
 
 ## Tecnologias e Bibliotecas Utilizadas
 
